@@ -1,9 +1,9 @@
 # PHP-RGR
 PHP-React-GraphQL-Relay
-![](resources/app.png)
 
 This is a small [React](https://github.com/facebook/react) app, using [graphql-php](https://github.com/webonyx/graphql-php) and [graphql-relay-php](https://github.com/ivome/graphql-relay-php), also includes [graphiql](https://github.com/graphql/graphiql) interface.
 
+![](resources/app.png)
 
 ##Example
 App interface: https://zenitht.com/git/PHP-RGR/public/
