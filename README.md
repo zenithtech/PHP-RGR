@@ -5,11 +5,11 @@ This is a small [React](https://github.com/facebook/react) app, using [graphql-p
 
 
 ##Example
-https://zenitht.com/git/PHP-RGR/public/
+App interface: https://zenitht.com/git/PHP-RGR/public/
 
 GraphiQL interface: https://zenitht.com/git/PHP-RGR/public/graphiql
 
-
+##Installation
 To run it locally, clone or download this repo to your server, then install the Composer packages:
 ```
 composer install
