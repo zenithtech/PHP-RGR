@@ -9,6 +9,32 @@ App interface: https://zenitht.com/git/PHP-RGR/public/
 
 GraphiQL interface: https://zenitht.com/git/PHP-RGR/public/graphiql
 
+##Using the GraphiQL interface
+You can manually insert new links via the GraphiQL interface, for example, in the query field enter:
+```
+mutation CreateLinkMutation($input: CreateLinkInput!) {
+  createLink(input: $input) {
+    link {
+      id
+      title
+      url
+    }
+  }
+}
+```
+
+... and pass variables in the Query variables field:
+```
+{
+  "input":
+  {
+    "clientMutationId": "1",
+    "url": "http://github.com",
+    "title": "Github.com Website"
+  }
+}
+```
+
 ##Installation
 To run it locally, clone or download this repo to your server, then install the Composer packages:
 ```
