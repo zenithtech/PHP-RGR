@@ -78341,7 +78341,7 @@
 	        key: 'getFatQuery',
 	        value: function getFatQuery() {
 	            return function () {
-	                throw new Error('GraphQL validation error ``Cannot query field "linkEdge" on type "CreateLinkPayload". Cannot query field "store" on type "CreateLinkPayload".`` in file `/Applications/MAMP/htdocs/osx/pluralsight/BuildingData-drivenReactApplicationswithRelayGraphQLandFlux/rgrjs/public/js/mutation/CreateLinkMutation.js`. Try updating your GraphQL schema if an argument/field/type was recently added.');
+	                throw new Error('GraphQL validation error ``Cannot query field "linkEdge" on type "CreateLinkPayload". Cannot query field "store" on type "CreateLinkPayload".`` in file `/Applications/MAMP/htdocs/osx/git/PHP-RGR/public/js/mutation/CreateLinkMutation.js`. Try updating your GraphQL schema if an argument/field/type was recently added.');
 	            }();
 	        }
 	    }, {
