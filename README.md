@@ -18,5 +18,9 @@ Then and install the node packages via NPM:
 ```
 npm install
 ```
+Then run
+```
+webpack -wd
+```
 
 You'll also need a MongoDB instance.
