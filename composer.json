@@ -1,0 +1,6 @@
+{
+    "require": {
+        "webonyx/graphql-php": "^0.5.7",
+        "ivome/graphql-relay-php": "^0.1.1"
+    }
+}
