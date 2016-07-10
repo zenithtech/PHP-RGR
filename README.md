@@ -10,6 +10,8 @@ App interface: https://zenitht.com/git/PHP-RGR/public/
 GraphiQL interface: https://zenitht.com/git/PHP-RGR/public/graphiql
 
 ##Using the GraphiQL interface
+[![](resources/graphiql.png)]
+
 You can manually insert new links via the GraphiQL interface, for example, in the query field enter:
 ```
 mutation CreateLinkMutation($input: CreateLinkInput!) {
