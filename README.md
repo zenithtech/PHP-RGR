@@ -43,7 +43,7 @@ To run it locally, clone or download this repo to your server, then install the 
 ```
 composer install
 ```
-Then and install the node packages via NPM:
+Install the node packages via NPM:
 ```
 npm install
 ```
