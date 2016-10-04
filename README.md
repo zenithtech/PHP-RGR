@@ -3,6 +3,7 @@ PHP-React-GraphQL-Relay
 
 This is a small [React](https://github.com/facebook/react) app, using [graphql-php](https://github.com/webonyx/graphql-php) and [graphql-relay-php](https://github.com/ivome/graphql-relay-php), also includes [graphiql](https://github.com/graphql/graphiql) interface.
 
+![](resources/app.png)
 
 ##Example
 App interface: https://zenitht.com/git/PHP-RGR/public/
@@ -10,7 +11,7 @@ App interface: https://zenitht.com/git/PHP-RGR/public/
 GraphiQL interface: https://zenitht.com/git/PHP-RGR/public/graphiql
 
 ##Using the GraphiQL interface
-[![](resources/graphiql.png)]
+![](resources/graphiql.png)
 
 You can manually insert new links via the GraphiQL interface, for example, in the query field enter:
 ```
@@ -42,7 +43,7 @@ To run it locally, clone or download this repo to your server, then install the 
 ```
 composer install
 ```
-Then and install the node packages via NPM:
+Install the node packages via NPM:
 ```
 npm install
 ```
