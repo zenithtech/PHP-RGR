@@ -53,3 +53,8 @@ webpack -wd
 ```
 
 You'll also need a MongoDB instance.
+
+
+## License ##
+
+This package is licensed under MIT license. See LICENSE for details.
