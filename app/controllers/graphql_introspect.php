@@ -3,7 +3,7 @@
 class Graphql_Introspect extends Controller
 {
 
-    public function graphql_introspect()
+    public function __construct()
     {
         $this->model('graphql_introspect');
     }

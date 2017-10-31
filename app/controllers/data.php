@@ -3,7 +3,7 @@
 class Data extends Controller
 {
 
-	public function data()
+	public function __construct()
 	{
 		$this->model('data');
 	}

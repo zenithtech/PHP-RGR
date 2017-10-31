@@ -3,7 +3,7 @@
 class Graphql extends Controller
 {
 
-    public function graphql()
+    public function __construct()
     {
         $this->model('graphql');
     }
